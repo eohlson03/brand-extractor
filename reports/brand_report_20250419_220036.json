@@ -1,0 +1,54 @@
+{
+  "url": "https://www.pacsun.com",
+  "fonts": {
+    "all": [
+      "Roboto"
+    ],
+    "top_used": [
+      "Roboto"
+    ]
+  },
+  "colors": {
+    "all": [
+      "#b1b5b8",
+      "#f0eeee",
+      "#f6f6f6",
+      "#f0f0f0",
+      "#ffffff",
+      "#fafbfc",
+      "#000000",
+      "#626364"
+    ],
+    "top_used": [
+      "#000000",
+      "#ffffff",
+      "#626364",
+      "#fafbfc",
+      "#f6f6f6"
+    ]
+  },
+  "themes": {
+    "primary_colors": [
+      "#000000",
+      "#ffffff",
+      "#626364"
+    ],
+    "fonts": [
+      "Roboto"
+    ],
+    "color_scheme": [
+      "#b1b5b8",
+      "#f0eeee",
+      "#f6f6f6",
+      "#f0f0f0",
+      "#ffffff",
+      "#fafbfc",
+      "#000000",
+      "#626364"
+    ]
+  },
+  "stylesheets": [
+    "inline_style_0",
+    "inline_style_1"
+  ]
+}
