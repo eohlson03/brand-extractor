@@ -1,0 +1,8 @@
+streamlit
+playwright
+beautifulsoup4
+requests
+lxml
+reportlab
+cairosvg
+inquirer
